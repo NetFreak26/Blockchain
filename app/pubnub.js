@@ -3,7 +3,7 @@ const PubNub = require('pubnub');
 const credentials = {
     publishKey: "pub-c-93f0e3cf-2f92-472f-8cec-54062e83298d",
     subscribeKey: "sub-c-b170e290-d8cb-4aa6-bb4f-146c5918b074",
-    secretKey: "sec-c-ZmExODY5ZjQtOWZkOS00NDc0LTgzNmItMmZhNDE0MzRmMGI4",
+    secretKey: "---",
     userId: "test"
 }
 
